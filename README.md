@@ -2,7 +2,8 @@
 In this project we will render a 3D triangular mesh with a texture on the GPU using WebGL.
 
 Just like the previous projects, you are given an HTML file that implements the user interface and a part of the JavaScript and WebGL code.
-Refer to the following link for a video demonstration: https://graphics.cs.utah.edu/courses/cs4600/fall2023/?prj=4
+Refer to the following link for a video demonstration and to read instructions more easily: https://graphics.cs.utah.edu/courses/cs4600/fall2023/?prj=4
+
 The part you will implement can be separated into three steps:
 
 Step 1:
