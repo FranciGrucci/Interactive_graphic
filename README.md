@@ -1,1 +1,1 @@
-Interactive_Graphics
+Interactive_Graphics Exam
